@@ -57,7 +57,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harshit-kandoi/harshit-kandoi/output/snake.svg" alt="Snake animation" />
+## My Lifecycle
+<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="225" align="right"/>
+
+```main.py
+def main():
+    alive = True
+    while alive:
+        code()
+        preprocess_data()
+        build_models()
+        sleep()
+        repeat()
+
+```
 
 ###
 
