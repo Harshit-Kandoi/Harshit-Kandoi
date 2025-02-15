@@ -1,14 +1,23 @@
-<h2 align="left">Hi there! 👋<br>I'm Harshit Kandoi,<br>a passionate Data Analyst and an enthusiastic Web Developer.</h2>
-
-###
+<h2 align="left">Hi there! 👋<br>I'm Harshit Kandoi,<br>Data Analyst | Machine Learning Enthusiast | Web Developer.</h2>
 
 <p align="left">
-With a keen interest in data-driven decision-making and full-stack development, I love to transform data into meaningful insights while building modern, responsive web applications.<br><br>
+Passionate about transforming raw data into meaningful insights and building modern web applications. Skilled in Python, SQL, Flask, and Data Visualization. Always eager to learn, innovate, and solve real-world problems.
 
-🔍 Exploring the world of Data Science and Machine Learning.<br>  
-🖥️ Developing innovative web solutions using HTML, CSS, JavaScript, and backend technologies.<br>  
-🚀 Constantly learning and enhancing my skills in Python, SQL, and Git.<br>  
-🎯 Open to collaborating on projects that challenge my analytical and development expertise.<br>  
+### 🔍 Data Science & Analytics  
+- Extracting insights from raw data to drive informed decision-making.  
+- Building predictive models and crafting visualizations for data storytelling.  
+
+### 🖥️ Web Development  
+- Creating dynamic and responsive web applications with Flask and full-stack technologies.  
+- Implementing modern UI/UX practices for a seamless user experience.  
+
+### 📊 Business Intelligence  
+- Leveraging **SQL, Power BI, and Tableau** to transform data into actionable insights.  
+- Developing interactive dashboards for data-driven storytelling.  
+
+### 🎯 Machine Learning  
+- Applying AI/ML techniques to solve real-world problems and optimize performance.  
+- Training, fine-tuning, and deploying models for predictive analytics.
 </p>
 
 ###
@@ -39,7 +48,15 @@ With a keen interest in data-driven decision-making and full-stack development, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
 </div>
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/harshit-kandoi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:kandoiharshitsdlp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ## 🛠 Key Skills  
 ✅ **Programming Languages:** Python, SQL, HTML, CSS, JavaScript  
@@ -48,9 +65,8 @@ With a keen interest in data-driven decision-making and full-stack development, 
 ✅ **Version Control & Deployment:** Git, GitHub, Heroku  
 ✅ **Business Intelligence & Analytics:** Power BI, Tableau  
 ✅ **Machine Learning Techniques:** Supervised & Unsupervised Learning, Deep Learning, Transfer Learning  
-✅ **Data Engineering:** Data Cleaning, Feature Engineering, ETL Pipelines  
+✅ **Data Engineering:** Data Cleaning, Feature Engineering, ETL Pipelines 
 
----
 
 ## 📂 Projects  
 💡 Here are some of the exciting projects I've worked on:  
@@ -64,34 +80,38 @@ With a keen interest in data-driven decision-making and full-stack development, 
 🔹 Provides insights into **customer spending, transaction trends, and fraud detection**.  
 🔹 **Tech Stack:** Power BI, SQL, Python  
 
-### **3️⃣ Deep Learning Color & Skincare Analysis** 🤖  
-🔹 **Ongoing Project:** Uses **deep learning** to recommend makeup, clothing colors, and skincare products.  
-🔹 **Tech Stack:** Python, TensorFlow, Keras, OpenCV  
-
-### **4️⃣ Whisper Transcription Model** 🎙️  
+### **3️⃣ Whisper Transcription Model** 🎙️  
 🔹 Developed a **speech-to-text** system using **OpenAI's Whisper model**.  
 🔹 Supports **audio & video transcription** for accessibility and documentation.  
 🔹 **Tech Stack:** Python, OpenAI Whisper, Flask  
 
-### **5️⃣ Movie Recommendation System** 🎬  
+### **4️⃣ Movie Recommendation System** 🎬  
 🔹 Built a **collaborative filtering-based** recommender for personalized movie suggestions.  
 🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Flask  
 
-### **6️⃣ Pizza Sales Insights** 🍕  
+### **5️⃣ Pizza Sales Insights** 🍕  
 🔹 Analyzed pizza sales data to identify **customer trends and optimize pricing strategies**.  
 🔹 Created **Power BI dashboards** for **data visualization & decision-making**.  
 🔹 **Tech Stack:** Power BI, SQL, Python  
 
-### **7️⃣ Crop Classification** 🌾  
+### **6️⃣ Crop Classification** 🌾  
 🔹 Developed a **machine learning model** to classify crops based on **environmental & soil data**.  
 🔹 **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib  
 
----
 
 ## 🔄 My Lifecycle as a Data Scientist  
-📌 **Collecting Data** 🏗️ → 📌 **Cleaning & Preprocessing** 🧹 → 📌 **Exploratory Data Analysis (EDA)** 📊 → 📌 **Feature Engineering** 🔍 → 📌 **Model Training & Evaluation** 🤖 → 📌 **Optimization & Hyperparameter Tuning** ⚙️ → 📌 **Deployment & Monitoring** 🚀  
+My journey in data science follows a structured process to ensure data-driven decision-making and impactful insights:  
 
----
+📌 **1. Understanding the Problem** – Identifying business goals and defining key metrics.  
+📌 **2. Collecting & Cleaning Data** – Gathering raw data and ensuring it's clean, structured, and ready for analysis.  
+📌 **3. Exploratory Data Analysis (EDA)** – Visualizing trends, patterns, and distributions to gain insights.  
+📌 **4. Feature Engineering & Selection** – Transforming and selecting the most relevant data points.  
+📌 **5. Model Building & Training** – Applying appropriate machine learning models to solve the problem.  
+📌 **6. Hyperparameter Tuning & Optimization** – Enhancing model performance for the best accuracy.  
+📌 **7. Model Deployment & Monitoring** – Deploying the solution and continuously improving it based on feedback.  
+
+This process ensures **robust, scalable, and data-driven solutions**! 🚀  
+
 
 ## 🏆 Achievements & Certifications  
 🎓 **Completed Courses:**  
@@ -101,24 +121,12 @@ With a keen interest in data-driven decision-making and full-stack development, 
 ✅ **SQL for Data Science** – YouTube  
 ✅ **Full Stack Development (Ongoing)** – Udemy  
 
----
-
-## 📈 Data Science Workflow Expertise  
-🔹 **Data cleaning & preprocessing**  
-🔹 **Exploratory Data Analysis (EDA)**  
-🔹 **Feature Engineering**  
-🔹 **Model building & tuning**  
-🔹 **Performance evaluation & optimization**  
-🔹 **Model Deployment** (Flask, FastAPI, or Cloud)  
-
----
 
 ## 🔧 Tools & Technologies  
 🛠️ **IDEs & Editors:** Jupyter Notebook, VS Code, PyCharm, Anaconda  
 📊 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
 🌍 **APIs & Web Services:** RESTful APIs, Flask, FastAPI  
 
----
 
 ## 📫 How to Reach Me  
 📩 Email: [kandoiharshitsdlp@gmail.com](mailto:kandoiharshitsdlp@gmail.com)  
