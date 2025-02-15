@@ -2,102 +2,126 @@
 
 ###
 
-<p align="left">With a keen interest in data-driven decision-making and full-stack development, I love to transform data into meaningful insights while building modern, responsive web applications.<br><br>🔍 Exploring the world of Data Science and Machine Learning.<br>🖥️ Developing innovative web solutions using HTML, CSS, JavaScript, and backend technologies.<br>🚀 Constantly learning and enhancing my skills in Python, SQL, and Git.<br>🎯 Open to collaborating on projects that challenge my analytical and development expertise.</p>
+<p align="left">
+With a keen interest in data-driven decision-making and full-stack development, I love to transform data into meaningful insights while building modern, responsive web applications.<br><br>
+
+🔍 Exploring the world of Data Science and Machine Learning.<br>  
+🖥️ Developing innovative web solutions using HTML, CSS, JavaScript, and backend technologies.<br>  
+🚀 Constantly learning and enhancing my skills in Python, SQL, and Git.<br>  
+🎯 Open to collaborating on projects that challenge my analytical and development expertise.<br>  
+</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshit-kandoi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-kandoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=harshit-kandoi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-kandoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
+## 🚀 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/harshit-kandoi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:kandoiharshitsdlp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/harshit_kandoi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+## 🛠 Key Skills  
+✅ **Programming Languages:** Python, SQL, HTML, CSS, JavaScript  
+✅ **Libraries & Frameworks:** Flask, Pandas, NumPy, Scikit-learn, TensorFlow  
+✅ **Database Management:** MySQL, PostgreSQL, MongoDB, SQLAlchemy  
+✅ **Version Control & Deployment:** Git, GitHub, Heroku  
+✅ **Business Intelligence & Analytics:** Power BI, Tableau  
+✅ **Machine Learning Techniques:** Supervised & Unsupervised Learning, Deep Learning, Transfer Learning  
+✅ **Data Engineering:** Data Cleaning, Feature Engineering, ETL Pipelines  
 
-###
+---
 
-## My Lifecycle
-<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="225" align="right"/>
+## 📂 Projects  
+💡 Here are some of the exciting projects I've worked on:  
 
-```main.py
-def main():
-    alive = True
-    while alive:
-        code()
-        preprocess_data()
-        build_models()
-        sleep()
-        repeat()
+### **1️⃣ Flask Web App** 🌐  
+🔹 A dynamic web application with full **CRUD functionality** and **database integration**.  
+🔹 **Tech Stack:** Python, Flask, SQLAlchemy, HTML, CSS  
 
-```
+### **2️⃣ Credit Card Financial Dashboard** 📊  
+🔹 Built an interactive **Power BI dashboard** for analyzing credit card data.  
+🔹 Provides insights into **customer spending, transaction trends, and fraud detection**.  
+🔹 **Tech Stack:** Power BI, SQL, Python  
 
-###
+### **3️⃣ Deep Learning Color & Skincare Analysis** 🤖  
+🔹 **Ongoing Project:** Uses **deep learning** to recommend makeup, clothing colors, and skincare products.  
+🔹 **Tech Stack:** Python, TensorFlow, Keras, OpenCV  
 
-<p align="left">🎯 Key Skills<br><br>- Programming Languages: Python, JavaScript, SQL, HTML, CSS<br>- Frameworks & Libraries: Flask, TensorFlow, Keras, Scikit-learn, Pandas<br>- Database Management: MySQL, SQLAlchemy, mongodb<br>- Tools: Git, Jupyter Notebook, Visual Studio Code<br>- Business analytics tool: PowerBi, Tableau<br>- Version Control: Git, GitHub</p>
+### **4️⃣ Whisper Transcription Model** 🎙️  
+🔹 Developed a **speech-to-text** system using **OpenAI's Whisper model**.  
+🔹 Supports **audio & video transcription** for accessibility and documentation.  
+🔹 **Tech Stack:** Python, OpenAI Whisper, Flask  
 
-###
+### **5️⃣ Movie Recommendation System** 🎬  
+🔹 Built a **collaborative filtering-based** recommender for personalized movie suggestions.  
+🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Flask  
 
-<p align="left">📂 Projects<br><br>1. Titanic Classification :-)<br>   - A supervised machine learning project aimed at predicting survival on the Titanic using historical passenger data.  <br>   - Tech Stack: Python, Jupyter Notebook, Pandas, Scikit-learn.<br><br>2. Number Recognition :-)  <br>   - Developed a model that recognizes handwritten digits using the MNIST dataset, achieving high accuracy through deep learning techniques.  <br>   - Tech Stack: Python, TensorFlow, Keras, CNN (Convolutional Neural Networks).<br><br>3. Spam/Ham Email Classification :-)  <br>   - Built a machine learning model to classify emails as spam or ham using natural language processing techniques.  <br>   - Tech Stack: Python, Scikit-learn, NLP, Pandas.<br><br>4. Crop Classification :-)<br>   - Designed a predictive model for classifying crops based on environmental and soil data to assist in better crop management.  <br>   - Tech Stack: Python, Scikit-learn, Pandas, Matplotlib.<br><br>5. Insurance Prediction :-)  <br>   - Developed a model to predict insurance claims, helping in risk management and policy optimization for insurers.  <br>   - Tech Stack: Python, Scikit-learn, Pandas.<br><br>6. Flask Web App :-)  <br>   - Created a dynamic web application using "Flask" and "SQLAlchemy" with full CRUD functionality and database integration.  <br>   - Tech Stack: Python, Flask, SQLAlchemy, HTML, CSS.<br><br>7. Credit Card Financial Dashboard :-)<br><br>- Developed an interactive Power BI dashboard to analyze credit card data for both overall customers and banks separately. The dashboard offers insights into credit card usage, customer behavior, and financial performance.<br><br>8. Deep Learning Color & Skincare Analysis :-)<br>   - A current project aimed at providing users with personalized recommendations for makeup, dress colors, and skincare based on uploaded images using deep learning models.  <br>   - Tech Stack: Python, TensorFlow, Keras, OpenCV (for image processing.)<br>- Ongoing project</p>
+### **6️⃣ Pizza Sales Insights** 🍕  
+🔹 Analyzed pizza sales data to identify **customer trends and optimize pricing strategies**.  
+🔹 Created **Power BI dashboards** for **data visualization & decision-making**.  
+🔹 **Tech Stack:** Power BI, SQL, Python  
 
-###
+### **7️⃣ Crop Classification** 🌾  
+🔹 Developed a **machine learning model** to classify crops based on **environmental & soil data**.  
+🔹 **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib  
 
-<p align="left">🏆 Achievements & Certifications<br>Machine Learning Specialization by udemy.<br>Python specialization bu udemy.<br>Deep Learning Specialization by youtube<br>SQL for Data Science – Completed with Youtube.<br>Full Stack development by udemy (Ongoing)</p>
+---
 
-###
+## 🔄 My Lifecycle as a Data Scientist  
+📌 **Collecting Data** 🏗️ → 📌 **Cleaning & Preprocessing** 🧹 → 📌 **Exploratory Data Analysis (EDA)** 📊 → 📌 **Feature Engineering** 🔍 → 📌 **Model Training & Evaluation** 🤖 → 📌 **Optimization & Hyperparameter Tuning** ⚙️ → 📌 **Deployment & Monitoring** 🚀  
 
-<p align="left">📈 Data Science Workflow Expertise<br><br>- Data cleaning and preprocessing<br>- Exploratory data analysis (EDA)<br>- Feature engineering<br>- Model building and tuning<br>- Performance evaluation and model optimization<br>- Deploying models to production ( platforms like Flask or cloud deployment like Heroku if applicable)</p>
+---
 
-###
+## 🏆 Achievements & Certifications  
+🎓 **Completed Courses:**  
+✅ **Machine Learning Specialization** – Udemy  
+✅ **Python Specialization** – Udemy  
+✅ **Deep Learning Fundamentals** – YouTube  
+✅ **SQL for Data Science** – YouTube  
+✅ **Full Stack Development (Ongoing)** – Udemy  
 
-<p align="left">🛠️ Tools & Technologies<br><br>- IDEs & Editors: Jupyter Notebook, VS Code, PyCharm, anaconda<br>- Version Control: Git & GitHub<br>- APIs & Web Services: RESTful APIs, Flask<br>- Visualization: Matplotlib, Seaborn, Plotly</p>
+---
 
-###
+## 📈 Data Science Workflow Expertise  
+🔹 **Data cleaning & preprocessing**  
+🔹 **Exploratory Data Analysis (EDA)**  
+🔹 **Feature Engineering**  
+🔹 **Model building & tuning**  
+🔹 **Performance evaluation & optimization**  
+🔹 **Model Deployment** (Flask, FastAPI, or Cloud)  
 
-<p align="left">🌍 Languages<br><br>- English (Professional)<br>- Hindi (Native)</p>
+---
 
-###
+## 🔧 Tools & Technologies  
+🛠️ **IDEs & Editors:** Jupyter Notebook, VS Code, PyCharm, Anaconda  
+📊 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+🌍 **APIs & Web Services:** RESTful APIs, Flask, FastAPI  
 
-<p align="left">📫 How to Reach Me<br>Email: kandoiharshitsdlp@gmail.com<br>LinkedIn: https://www.linkedin.com/in/harshit-kandoi-007860210/</p>
+---
 
-###
+## 📫 How to Reach Me  
+📩 Email: [kandoiharshitsdlp@gmail.com](mailto:kandoiharshitsdlp@gmail.com)  
+🔗 LinkedIn: [Harshit Kandoi](https://www.linkedin.com/in/harshit-kandoi/)  
+
+⭐ **Thank you for visiting my profile!** If you like my work, feel free to **star ⭐ my repositories** or **connect with me!** 🚀
