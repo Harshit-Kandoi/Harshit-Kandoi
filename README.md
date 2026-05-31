@@ -1,123 +1,118 @@
-<h2 align="left">Hi there! 👋<br>I'm Harshit Kandoi,<br>Data Scientist | AI/ML Engineer | Backend Developer</h2>
+<h1 align="center">Hi 👋, I'm Harshit Kandoi</h1>
 
-<p align="left">
-Passionate about transforming raw data into meaningful insights and building intelligent, scalable applications. Skilled in Python, SQL, Flask, and Data Visualization, with hands-on experience in deploying AI/ML models, cloud platforms, and creating impactful end-to-end solutions.
+<h3 align="center">
+Full Stack Software Engineer | Google Associate Cloud Engineer (ACE)
+</h3>
+
+<p align="center">
+Building scalable web applications, cloud-native systems, and automation workflows using React, Java, Python, SQL, and Google Cloud Platform (GCP).
 </p>
 
 ---
 
-### 🔍 Data Science & Analytics  
-- Extract insights from raw data to drive informed decision-making.  
-- Build predictive models and craft visualizations for data storytelling.  
+## 🚀 About Me
 
-### 🖥️ Backend & Web Development  
-- Develop dynamic, scalable web applications using Flask and modern full-stack technologies.  
-- Implement APIs, database integrations, and secure backend systems.  
+I'm a Full Stack Software Engineer with hands-on experience developing frontend applications, backend services, cloud-native workflows, and automation solutions.
 
-### 📊 Business Intelligence  
-- Leverage **SQL, Power BI, and Tableau** to create interactive dashboards and reports.  
-- Translate data into actionable business insights.  
+Currently working on production systems involving:
 
-### 🎯 Machine Learning & AI  
-- Train, fine-tune, and deploy ML models for real-world applications.  
-- Expertise in **computer vision, NLP, and predictive analytics**.  
+* Frontend development using React and JavaScript
+* Backend services using Java and Python
+* Cloud-native applications on Google Cloud Platform (GCP)
+* Event-driven architectures using Pub/Sub and Cloud Functions
+* Firestore database integrations
+* API development and workflow automation
+* Production deployment, monitoring, and debugging
 
----
-
-## 🚀 Tech Stack
-<div align="left">
-  <!-- Core Languages & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="scikit-learn logo" />  
-
-  <!-- Web & Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />  
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo" />  
-
-  <!-- ML & AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />  
-
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30" alt="github actions logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />  
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />  
-</div>
+I enjoy solving real-world business problems by combining software engineering, cloud technologies, and automation.
 
 ---
 
-## 🛠 Key Skills
+## 💻 Tech Stack
 
-- **Programming & Scripting:** Python, SQL, HTML, CSS, JavaScript
-- **Data Science & Analytics:** Data Cleaning, Feature Engineering, EDA, Statistical Analysis, Predictive Modeling
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, Generative AI, MLOps
-- **Cloud & Deployment:** CI/CD, API Development, Cloud Deployment, Cost Optimization
-- **Business Intelligence:** Data Storytelling, Dashboard Creation, Decision-Making Insights
-
----
-
-## 🔧 Tools & Technologies
-
-- **Data & ML Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, YOLOv5, OpenCV
-- **Web & API Development:** Flask, FastAPI, Streamlit, LangChain
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLAlchemy
-- **DevOps & Deployment:** Docker, Git, GitHub Actions, Heroku, AWS (EC2, S3), GCP (Firestore, Pub/Sub)
-- **Visualization Tools:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
-- **IDEs & Environments:** Jupyter Notebook, VS Code, PyCharm, Anaconda
+| Category | Technologies |
+|-----------|-------------|
+| **Languages** | Java • Python • JavaScript • SQL |
+| **Frontend** | React • HTML5 • CSS3 |
+| **Backend** | Flask • REST APIs • API Integration |
+| **Cloud** | GCP • Cloud Functions • Firestore • Pub/Sub • App Engine |
+| **DevOps** | Docker • GitHub Actions • CI/CD |
+| **Databases** | Firestore • MySQL • SQLAlchemy |
+| **AI & ML** | YOLO • CNN • OpenAI Whisper • Computer Vision |
+| **Tools** | Git • GitHub • VS Code • Postman • Jupyter Notebook |
 
 ---
 
-## 📂 Featured Projects  
+## 🌟 Featured Projects
 
-### **1️⃣ ASL Hand Sign Detection** 🤟  
-🔹 Real-time sign language detection using YOLOv5.  
-🔹 **Tech Stack:** Python, OpenCV, PyTorch, YOLOv5  
+### ☁️ Local GCP Emulator
 
-### **2️⃣ Plastic Detection Model** 🌍  
-🔹 YOLO-based computer vision model for detecting plastic waste (Anantagni Industries).  
-🔹 **Tech Stack:** Python, OpenCV, PyTorch  
+Simulated Firestore and Pub/Sub services locally to enable offline development and testing of cloud-native applications.
 
-### **3️⃣ Movie Recommendation System** 🎬  
-🔹 Collaborative filtering-based recommender for personalized movie suggestions.  
-🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Flask  
+**Tech:** Python, Flask, Firestore Emulator, Pub/Sub Emulator
 
-### **4️⃣ Insurance Prediction System** 🏥  
-🔹 Predict insurance premiums using ML models.  
-🔹 **Tech Stack:** Python, Scikit-learn, Pandas  
+### 🎙️ Whisper Transcription Web Application
 
-### **5️⃣ Crop Recommendation System** 🌾  
-🔹 Recommend suitable crops based on environmental & soil conditions.  
-🔹 **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib  
+Built a web-based speech-to-text application using OpenAI Whisper for automated audio and video transcription.
+
+**Tech:** Python, Flask, OpenAI Whisper
+
+### 🤟 ASL Hand Sign Detection
+
+Implemented a real-time American Sign Language recognition system capable of detecting 26 hand signs using YOLOv5.
+
+**Tech:** Python, OpenCV, YOLOv5
+
+### 🎬 Movie Recommendation System
+
+Built a personalized recommendation engine using collaborative and content-based filtering techniques.
+
+**Tech:** Python, SQLAlchemy, Flask
+
+### 📊 Credit Card Financial Dashboard
+
+Created an interactive Power BI dashboard for analyzing customer spending patterns, payment trends, and business KPIs.
+
+**Tech:** Power BI, SQL
 
 ---
 
-## 🏆 Achievements & Certifications  
-🎓 **Career Essentials in Generative AI** – Microsoft & LinkedIn  
-🎓 **Career Essentials in GitHub Copilot** – GitHub  
-🎓 **Machine Learning A-Z** – Udemy  
-🎓 **100 Days of Code: Python Bootcamp** – Udemy  
-🎓 **Introduction to AI** – LinkedIn Learning  
+## 🏆 Certifications
+
+✅ Google Associate Cloud Engineer (ACE) – Google Cloud
+
+✅ Docker Foundations Professional Certificate – Docker
+
+✅ Career Essentials in GitHub Copilot – GitHub
+
+✅ 100 Days of Code: Python Bootcamp – Udemy
+
+✅ Machine Learning A-Z – Udemy
 
 ---
 
-## 📫 How to Reach Me  
-📩 Email: [kandoiharshitsdlp@gmail.com](mailto:kandoiharshitsdlp@gmail.com)  
-🔗 LinkedIn: [Harshit Kandoi](https://www.linkedin.com/in/harshit-kandoi/)  
+## 📈 Current Focus
 
-⭐ **Thanks for visiting my profile!** If you like my work, feel free to ⭐ my repositories or connect with me 🚀
+* Scalable Full Stack Applications
+* Cloud-Native Architecture
+* Event-Driven Systems
+* Backend Engineering
+* Automation Workflows
+* System Design Fundamentals
+* Advanced GCP Services
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [kandoiharshitsdlp@gmail.com](mailto:kandoiharshitsdlp@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/harshit-kandoi](http://www.linkedin.com/in/harshit-kandoi)
+
+🌐 Portfolio: [https://harshit-kandoi.netlify.app](https://harshit-kandoi.netlify.app)
+
+🐙 GitHub: github.com/Harshit-Kandoi
+
+---
+
+⭐ Thanks for visiting my profile! If you find my projects interesting, feel free to connect, collaborate, or explore my repositories.
